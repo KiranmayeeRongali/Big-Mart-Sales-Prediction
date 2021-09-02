@@ -1,0 +1,2 @@
+# Big-Mart-Sales-Prediction
+The aim of this project is to predict the sales of big mart stores. The data set taken contains the location of stores, various properties of item like cost, weight, fat content, visibility in store are given. After doing necessary pre processing steps and feature selection, applied various machine learning algorithms, supervised and regression models, to compare and gain best accuracies. 
